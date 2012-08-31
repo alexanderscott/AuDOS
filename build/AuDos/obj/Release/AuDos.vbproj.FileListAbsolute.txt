@@ -1,0 +1,42 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\bin\Release\AuDos.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\bin\Release\AuDos.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\bin\Release\AuDos.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Release\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Release\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Release\WindowsApplication1.Form3.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Release\AuDos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Release\AuDos.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Release\AuDos.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Release\AuDos.pdb
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\bin\Release\AuDOS.exe
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\bin\Release\AuDOS.pdb
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\bin\Release\AuDOS.xml
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.BeerWineSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.BottleSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.Cash.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.CreditDebit.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.DraftSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.Finalfrm.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.Receipt.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.MixedMake.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.NonAlcoholicSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.RedWineSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.PitcherSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.Order.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.MixedSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.Checkout.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.InitialSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.Start.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\WindowsApplication1.WhiteWineSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\AuDos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\AuDOS.exe
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\AuDOS.xml
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\AuDOS.pdb
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\bin\Release\AuDOS.exe.manifest
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\bin\Release\AuDOS.application
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\AuDOS.exe.manifest
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Release\AuDOS.application

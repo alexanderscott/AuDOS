@@ -1,0 +1,44 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\bin\Debug\AuDos.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\bin\Debug\AuDos.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\bin\Debug\AuDos.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Debug\AuDos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Debug\AuDos.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Debug\AuDos.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Debug\AuDos.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Debug\WindowsApplication1.Form3.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Debug\WindowsApplication1.Form4.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\AuDos\AuDos\obj\Debug\WindowsApplication1.Form5.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\AuDos.exe
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\AuDos.xml
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\AuDos.pdb
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.MixedSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.Checkout.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.Start.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\AuDos.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\bin\Debug\AuDOS.exe
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\bin\Debug\AuDOS.pdb
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\bin\Debug\AuDOS.xml
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.InitialSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.Order.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.BeerWineSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.BottleSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.DraftSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.MixedMake.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.NonAlcoholicSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.RedWineSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.PitcherSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.WhiteWineSelect.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.Cash.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.CreditDebit.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.Receipt.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\WindowsApplication1.Finalfrm.resources
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\bin\Debug\AuDOS.exe.manifest
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\bin\Debug\AuDOS.application
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\AuDOS.exe.manifest
+C:\Documents and Settings\Administrator\Desktop\AuDos\AuDos\obj\Debug\AuDOS.application
